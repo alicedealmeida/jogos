@@ -10,3 +10,4 @@ Projeto construído ao longo de um curso de Python da Alura, seguindo as aulas d
 - Leitura de arquivos
 - Criação de funções
 - Utilização de bibliotecas
+- Execução e importação de módulos
